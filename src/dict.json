@@ -1,0 +1,9 @@
+{
+    "restaurante":{
+        "nome":"",
+        "endereco":"",
+        "numero":"",
+        "cnpj":"",
+        "classificacao":0.00
+    }
+}
