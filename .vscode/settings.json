@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "Restaurant",
+            "name": "vscode",
+            "username": "postgres",
+            "password": "admin"
+        }
+    ]
+}
